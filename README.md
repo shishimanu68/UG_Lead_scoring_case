@@ -1,2 +1,3 @@
-# UG_Lead_scoring_case
-The project involves a logistic regression model designed to predict the conversion of potential leads into sales for an X Education company. The repository includes 5 files: a README file, 3 PDF files (Assignment Summary, Subjective Questions, and Presentation), and 1 Jupyter notebook (.ipynb) file.
+# Lead-Scoring-Assignment
+The project is a logistical regression model done to predict the conversion of potential leads to sales in a X Education company. 
+The repository contains of 5 files including the readme file. 3 Pdf files of Assignment summary, Subjective Questions and Presentation and 1 ipynb file.
